@@ -1,0 +1,10 @@
+[package]
+name = "magnetite"
+version = "0.0.1"
+edition = "2024"
+repository = "https://github.com/astra-laboratories/magnetite"
+license = "MIT"
+description = "Open-source framework for mission-critical modeling and simulation (work in progress)."
+homepage = "https://astralabs.de"
+
+[dependencies]
