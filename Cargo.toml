@@ -5,6 +5,6 @@ edition = "2024"
 repository = "https://github.com/astra-laboratories/magnetite"
 license = "MIT"
 description = "Open-source framework for mission-critical modeling and simulation (work in progress)."
-homepage = "https://astralabs.de"
+homepage = "https://magnetite.rs"
 
 [dependencies]
