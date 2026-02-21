@@ -1,5 +1,6 @@
 from magnetite import foo
 
+
 def test_rect():
     r = foo.Rect()
     assert r.pos == [0, 0], "Default position incorrect"
